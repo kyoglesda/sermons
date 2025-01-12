@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:a10="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Kyogle Seventh-day Adventist</title>
+		<title>Church Sermons</title>
 		<link>https://kyogle.adventist.org.au/</link>
 		<description>The sermons presented at Kyogle SDA church</description>
 		<language>en-US</language>
 		<copyright>Copyright 2025</copyright>
-		<itunes:author>Gerard Sexton</itunes:author>
+		<itunes:author>Kyogle Seventh-day Adventist</itunes:author>
 		<managingEditor>Gerard Sexton</managingEditor>
 		<itunes:type>serial</itunes:type>
 		<lastBuildDate>Sun, 12 Jan 2025 23:05:00 +1100</lastBuildDate>
