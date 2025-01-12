@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:a10="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Kyogle SDA Church Sermons</title>
+		<link>https://kyogle.adventist.org.au/</link>
+		<description>The church sermons for Kyogle SDA</description>
+		<language>en-US</language>
+		<copyright>Copyright 2025</copyright>
+		<itunes:author>gerardsexton@outlook.com</itunes:author>
+		<managingEditor>gerardsexton@outlook.com</managingEditor>
+		<itunes:type>serial</itunes:type>
+		<lastBuildDate>Sun, 12 Jan 2025 23:05:00 +1100</lastBuildDate>
+		<image>
+			<url>https://raw.githubusercontent.com/kyoglesda/sermons/refs/heads/master/podcast_logo.png</url>
+			<title>Kyogle SDA Church Sermons</title>
+			<link>https://kyogle.adventist.org.au/</link>
+		</image>
+		<itunes:image href="https://raw.githubusercontent.com/kyoglesda/sermons/refs/heads/master/podcast_logo.png"></itunes:image>
+		<a10:id>KyogleSDAChurch</a10:id>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Christianity &amp; Seventh-day Adventist"></itunes:category>
+		<item>
+			<guid isPermaLink="false">D66C72C7-A554-4E25-9D13-D403D19BD381</guid>
+			<link></link>
+			<title>Keneth Olak - Jacob's Time of Trouble</title>
+			<itunes:title>Keneth Olak - Jacob's Time of Trouble</itunes:title>
+			<description> by Keneth Olak - Jacob's Time of Trouble</description>
+			<a10:updated>2025-01-12T23:05:00+11:00</a10:updated>
+			<pubDate>Sat, 11 Jan 2025 11:00:00 +1100</pubDate>
+			<enclosure url="https://drive.google.com/uc?id=1kCQWmxjXVP-2cg0eIgtVIbhpiFZZMv08" length="28289503" type="audio/mpeg">
+			</enclosure>
+			<itunes:duration>4714</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>			
+		</item>
+	</channel>
+</rss>
