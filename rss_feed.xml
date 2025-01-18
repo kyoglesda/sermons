@@ -32,5 +32,18 @@
 			<itunes:duration>4714</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>			
 		</item>
+		<item>
+			<guid isPermaLink="false">0FC0938F-2B87-41C6-96CF-895546D3F904</guid>
+			<link></link>
+			<title>Adam Cinzio - Revelation Part 1</title>
+			<itunes:title>Adam Cinzio - Revelation Part 1</itunes:title>
+			<description> </description>
+			<a10:updated>2025-01-18T23:05:00+11:00</a10:updated>
+			<pubDate>Sat, 18 Jan 2025 11:00:00 +1100</pubDate>
+			<enclosure url="https://drive.google.com/uc?id=1OGmGqirPRVOR5R4O6uB_atgm_9nYwkUL" length="11452592" type="audio/mpeg">
+			</enclosure>
+			<itunes:duration>1909</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>			
+		</item>
 	</channel>
 </rss>
