@@ -45,5 +45,18 @@
 			<itunes:duration>1909</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>			
 		</item>
+		<item>
+			<guid isPermaLink="false">0322F0DD-9BB4-45B2-9E0D-DCA0605F14EF</guid>
+			<link></link>
+			<title>Caleb Smith - Testimony</title>
+			<itunes:title>Caleb Smith - Testimony</itunes:title>
+			<description>In this sermon, Caleb Smith started with his own testimony but midway opened the pulpit up to the floor to allow others to give their own testimony. Colin Abrahamson and Theo Sison answered the call.</description>
+			<a10:updated>2025-01-25T23:05:00+11:00</a10:updated>
+			<pubDate>Sat, 25 Jan 2025 11:00:00 +1100</pubDate>
+			<enclosure url="https://drive.google.com/uc?id=1AQ6DJioyUOyD17Gdi3W-clODK_NPzKK7" length="23989644" type="audio/mpeg">
+			</enclosure>
+			<itunes:duration>3998</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>			
+		</item>
 	</channel>
 </rss>
