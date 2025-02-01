@@ -25,7 +25,7 @@
 			<title>Keneth Olak - Jacob's Time of Trouble</title>
 			<itunes:title>Keneth Olak - Jacob's Time of Trouble</itunes:title>
 			<description> </description>
-			<a10:updated>2025-01-12T23:05:00+11:00</a10:updated>
+			<a10:updated>2025-01-12T11:00:00+11:00</a10:updated>
 			<pubDate>Sat, 11 Jan 2025 11:00:00 +1100</pubDate>
 			<enclosure url="https://drive.google.com/uc?id=1kCQWmxjXVP-2cg0eIgtVIbhpiFZZMv08" length="28289503" type="audio/mpeg">
 			</enclosure>
@@ -35,10 +35,10 @@
 		<item>
 			<guid isPermaLink="false">0FC0938F-2B87-41C6-96CF-895546D3F904</guid>
 			<link></link>
-			<title>Adam Cinzio - Revelation Part 1</title>
-			<itunes:title>Adam Cinzio - Revelation Part 1</itunes:title>
+			<title>Adam Cinzio - The Disciple that Jesus Loved</title>
+			<itunes:title>Adam Cinzio - The Disciple that Jesus Loved</itunes:title>
 			<description> </description>
-			<a10:updated>2025-01-18T23:05:00+11:00</a10:updated>
+			<a10:updated>2025-01-18T11:00:00+11:00</a10:updated>
 			<pubDate>Sat, 18 Jan 2025 11:00:00 +1100</pubDate>
 			<enclosure url="https://drive.google.com/uc?id=1OGmGqirPRVOR5R4O6uB_atgm_9nYwkUL" length="11452592" type="audio/mpeg">
 			</enclosure>
@@ -51,11 +51,24 @@
 			<title>Caleb Smith - Testimony</title>
 			<itunes:title>Caleb Smith - Testimony</itunes:title>
 			<description>In this sermon, Caleb Smith started with his own testimony but midway opened the pulpit up to the floor to allow others to give their own testimony. Colin Abrahamson and Theo Sison answered the call.</description>
-			<a10:updated>2025-01-25T23:05:00+11:00</a10:updated>
+			<a10:updated>2025-01-25T11:00:00+11:00</a10:updated>
 			<pubDate>Sat, 25 Jan 2025 11:00:00 +1100</pubDate>
 			<enclosure url="https://drive.google.com/uc?id=1AQ6DJioyUOyD17Gdi3W-clODK_NPzKK7" length="23989644" type="audio/mpeg">
 			</enclosure>
 			<itunes:duration>3998</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>			
+		</item>
+		<item>
+			<guid isPermaLink="false">84FEA11A-73CA-42F2-9901-9E0C1440BC30</guid>
+			<link></link>
+			<title>Adam Cinzio - Bitter Sweet</title>
+			<itunes:title>Adam Cinzio - Bitter Sweet</itunes:title>
+			<description>Pastor Adam prepares the church to partake in the Ordinance service.</description>
+			<a10:updated>2025-02-01T11:00:00+11:00</a10:updated>
+			<pubDate>Sat, 2 Feb 2025 11:00:00 +1100</pubDate>
+			<enclosure url="https://drive.google.com/uc?id=1H3XkAvxU3Oj_rkRMkMY-qXBsca1-XBaB" length="10546387" type="audio/mpeg">
+			</enclosure>
+			<itunes:duration>1743</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>			
 		</item>
 	</channel>
