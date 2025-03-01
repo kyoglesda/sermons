@@ -82,28 +82,6 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item xmlns="http://www.w3.org/1999/xhtml">
-      <guid isPermaLink="false">1ceba54c-5861-4fbe-82c5-5d2cb7351669</guid>
-      <title>Adam Cinzio - Christ Amongst Us</title>
-      <itunes:title>Adam Cinzio - Christ Amongst Us</itunes:title>
-      <description></description>
-      <pubDate>Sat, 15 Feb 2025 11:00:00 -660</pubDate>
-      <a10:updated>2025-03-01T05:09:17.577Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=154xLQdrcWRbqBHOym4tJHPEFiQqZVWUe" type="audio/mpeg" length="55208478"></enclosure>
-      <itunes:duration>3450</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
-      <guid isPermaLink="false">4ee37758-9663-4bd7-90ab-f0fde3c0c05b</guid>
-      <title>Trevor Smith - God Does Answer Prayer</title>
-      <itunes:title>Trevor Smith - God Does Answer Prayer</itunes:title>
-      <description></description>
-      <pubDate>Sat, 22 Feb 2025 11:00:00 -660</pubDate>
-      <a10:updated>2025-03-01T05:02:15.483Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1GFpTt6UTZRV9u5gyxd_UaJZh88eGUvdg" type="audio/mpeg" length="90905536"></enclosure>
-      <itunes:duration>5681</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
       <guid isPermaLink="false">91d3c25e-57c7-44e1-8da6-3c51c4558f86</guid>
       <title>Lucinda Ramsey - Choose You This Day</title>
       <itunes:title>Lucinda Ramsey - Choose You This Day</itunes:title>
@@ -112,6 +90,28 @@
       <a10:updated>2025-03-01T04:54:12.877Z</a10:updated>
       <enclosure url="https://drive.google.com/uc?id=1kxU6K1C6fKz5DYl-znDhj5YGk2DnYVyf" type="audio/mpeg" length="63823035"></enclosure>
       <itunes:duration>3988</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">4ee37758-9663-4bd7-90ab-f0fde3c0c05b</guid>
+      <title>Trevor Smith - God Does Answer Prayer</title>
+      <itunes:title>Trevor Smith - God Does Answer Prayer</itunes:title>
+      <description></description>
+      <pubDate>Sat, 1 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-01T05:02:15.483Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1GFpTt6UTZRV9u5gyxd_UaJZh88eGUvdg" type="audio/mpeg" length="90905536"></enclosure>
+      <itunes:duration>5681</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">1ceba54c-5861-4fbe-82c5-5d2cb7351669</guid>
+      <title>Adam Cinzio - Christ Amongst Us</title>
+      <itunes:title>Adam Cinzio - Christ Amongst Us</itunes:title>
+      <description></description>
+      <pubDate>Sat, 1 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-01T05:09:17.577Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=154xLQdrcWRbqBHOym4tJHPEFiQqZVWUe" type="audio/mpeg" length="55208478"></enclosure>
+      <itunes:duration>3450</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
