@@ -81,5 +81,16 @@
       <itunes:duration>2470</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">91d3c25e-57c7-44e1-8da6-3c51c4558f86</guid>
+      <title>Lucinda Ramsey - Choose You This Day</title>
+      <itunes:title>Lucinda Ramsey - Choose You This Day</itunes:title>
+      <description></description>
+      <pubDate>Sat, 1 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-01T04:54:12.877Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1kxU6K1C6fKz5DYl-znDhj5YGk2DnYVyf" type="audio/mpeg" length="63823035"></enclosure>
+      <itunes:duration>3988</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
