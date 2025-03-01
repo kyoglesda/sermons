@@ -103,5 +103,16 @@
       <itunes:duration>5681</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">1ceba54c-5861-4fbe-82c5-5d2cb7351669</guid>
+      <title>Adam Cinzio - Christ Amongst Us</title>
+      <itunes:title>Adam Cinzio - Christ Amongst Us</itunes:title>
+      <description></description>
+      <pubDate>Sat, 1 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-01T05:09:17.577Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=154xLQdrcWRbqBHOym4tJHPEFiQqZVWUe" type="audio/mpeg" length="55208478"></enclosure>
+      <itunes:duration>3450</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
