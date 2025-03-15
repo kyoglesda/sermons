@@ -125,5 +125,16 @@
       <itunes:duration>2926</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">518f499b-5f70-4112-acbe-4389b381c695</guid>
+      <title>Trevor Smith - God Does Answer Prayer</title>
+      <itunes:title>Trevor Smith - God Does Answer Prayer</itunes:title>
+      <description></description>
+      <pubDate>Sat, 15 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-15T03:58:55.773Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=17ymVMLHtxVqsVB9mcS0vrC27HJMMLPQn" type="audio/mpeg" length="80160641"></enclosure>
+      <itunes:duration>5009</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
