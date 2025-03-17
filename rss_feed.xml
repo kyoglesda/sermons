@@ -82,10 +82,10 @@
       <itunes:duration>2470</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
+    <item>
       <guid isPermaLink="false">91d3c25e-57c7-44e1-8da6-3c51c4558f86</guid>
-      <title>Lucinda Ramsey - Choose You This Day</title>
-      <itunes:title>Lucinda Ramsey - Choose You This Day</itunes:title>
+      <title>Lucinda Ramsay - Choose You This Day</title>
+      <itunes:title>Lucinda Ramsay - Choose You This Day</itunes:title>
       <description></description>
       <pubDate>Sat, 1 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-01T04:54:12.877Z</a10:updated>
@@ -93,10 +93,10 @@
       <itunes:duration>3988</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
+    <item>
       <guid isPermaLink="false">4ee37758-9663-4bd7-90ab-f0fde3c0c05b</guid>
-      <title>Trevor Smith - God Does Answer Prayer</title>
-      <itunes:title>Trevor Smith - God Does Answer Prayer</itunes:title>
+      <title>Glen Ramsay - Bible Translations (Afternoon)</title>
+      <itunes:title>Glen Ramsay - Bible Translations (Afternoon)</itunes:title>
       <description></description>
       <pubDate>Sat, 1 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-01T05:02:15.483Z</a10:updated>
@@ -104,7 +104,7 @@
       <itunes:duration>5681</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
+    <item>
       <guid isPermaLink="false">1ceba54c-5861-4fbe-82c5-5d2cb7351669</guid>
       <title>Adam Cinzio - Christ Amongst Us</title>
       <itunes:title>Adam Cinzio - Christ Amongst Us</itunes:title>
@@ -115,7 +115,7 @@
       <itunes:duration>3450</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
+    <item>
       <guid isPermaLink="false">9affacda-0fea-46b1-8191-2ddfc221a0e1</guid>
       <title>Adam Cinzio - He Who Has an Ear</title>
       <itunes:title>Adam Cinzio - He Who Has an Ear</itunes:title>
@@ -126,7 +126,7 @@
       <itunes:duration>2926</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
+    <item>
       <guid isPermaLink="false">518f499b-5f70-4112-acbe-4389b381c695</guid>
       <title>Trevor Smith - God Does Answer Prayer</title>
       <itunes:title>Trevor Smith - God Does Answer Prayer</itunes:title>
