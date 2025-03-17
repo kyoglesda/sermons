@@ -70,8 +70,9 @@
       <itunes:duration>1743</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item xmlns="http://www.w3.org/1999/xhtml">
+    <item>
       <guid isPermaLink="false">0318fa4e-d229-4f48-ac03-6b06a60422cc</guid>
+      <link />
       <title>Levi Tsanov - It's a Secret</title>
       <itunes:title>Levi Tsanov - It's a Secret</itunes:title>
       <description></description>
