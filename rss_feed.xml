@@ -75,10 +75,10 @@
       <link />
       <title>Levi Tsanov - It's a Secret</title>
       <itunes:title>Levi Tsanov - It's a Secret</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 8 Feb 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-02-08T05:27:47.707Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1x_XAmsRKRINonpa3aSk58v_pU2ZQUrST" type="audio/mpeg" length="39525396"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1x_XAmsRKRINonpa3aSk58v_pU2ZQUrST" type="audio/mpeg" length="39525396" />
       <itunes:duration>2470</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -86,10 +86,10 @@
       <guid isPermaLink="false">91d3c25e-57c7-44e1-8da6-3c51c4558f86</guid>
       <title>Lucinda Ramsay - Choose You This Day</title>
       <itunes:title>Lucinda Ramsay - Choose You This Day</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 1 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-01T04:54:12.877Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1kxU6K1C6fKz5DYl-znDhj5YGk2DnYVyf" type="audio/mpeg" length="63823035"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1kxU6K1C6fKz5DYl-znDhj5YGk2DnYVyf" type="audio/mpeg" length="63823035" />
       <itunes:duration>3988</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -97,10 +97,10 @@
       <guid isPermaLink="false">4ee37758-9663-4bd7-90ab-f0fde3c0c05b</guid>
       <title>Glen Ramsay - Bible Translations (Afternoon)</title>
       <itunes:title>Glen Ramsay - Bible Translations (Afternoon)</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 1 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-01T05:02:15.483Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1GFpTt6UTZRV9u5gyxd_UaJZh88eGUvdg" type="audio/mpeg" length="90905536"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1GFpTt6UTZRV9u5gyxd_UaJZh88eGUvdg" type="audio/mpeg" length="90905536" />
       <itunes:duration>5681</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -108,10 +108,10 @@
       <guid isPermaLink="false">1ceba54c-5861-4fbe-82c5-5d2cb7351669</guid>
       <title>Adam Cinzio - Christ Amongst Us</title>
       <itunes:title>Adam Cinzio - Christ Amongst Us</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 1 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-01T05:09:17.577Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=154xLQdrcWRbqBHOym4tJHPEFiQqZVWUe" type="audio/mpeg" length="55208478"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=154xLQdrcWRbqBHOym4tJHPEFiQqZVWUe" type="audio/mpeg" length="55208478" />
       <itunes:duration>3450</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -119,10 +119,10 @@
       <guid isPermaLink="false">9affacda-0fea-46b1-8191-2ddfc221a0e1</guid>
       <title>Adam Cinzio - He Who Has an Ear</title>
       <itunes:title>Adam Cinzio - He Who Has an Ear</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 15 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-15T03:55:21.992Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1Uyz_5e9mdMz2SKWddr7Ob0AtdGWUI9A1" type="audio/mpeg" length="46827979"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1Uyz_5e9mdMz2SKWddr7Ob0AtdGWUI9A1" type="audio/mpeg" length="46827979" />
       <itunes:duration>2926</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -130,11 +130,22 @@
       <guid isPermaLink="false">518f499b-5f70-4112-acbe-4389b381c695</guid>
       <title>Trevor Smith - God Does Answer Prayer</title>
       <itunes:title>Trevor Smith - God Does Answer Prayer</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 15 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-15T03:58:55.773Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=17ymVMLHtxVqsVB9mcS0vrC27HJMMLPQn" type="audio/mpeg" length="80160641"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=17ymVMLHtxVqsVB9mcS0vrC27HJMMLPQn" type="audio/mpeg" length="80160641" />
       <itunes:duration>5009</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">b89ff756-ed1b-4b65-92d7-38135f8542ce</guid>
+      <title>Glen Ramsay - The Missing Peace</title>
+      <itunes:title>Glen Ramsay - The Missing Peace</itunes:title>
+      <description></description>
+      <pubDate>Sat, 22 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-22T05:59:01.500Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1QAjItAQ6mVsIRB0G6C9aCqBMvxBZ7erv" type="audio/mpeg" length="70270891"></enclosure>
+      <itunes:duration>4391</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
