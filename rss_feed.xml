@@ -148,5 +148,16 @@
       <itunes:duration>4391</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">d341d71a-6613-4767-9613-50e99c2c16b9</guid>
+      <title>Glen Ramsay - Bible Translations Part 2 (a) (Afternoon)</title>
+      <itunes:title>Glen Ramsay - Bible Translations Part 2 (a) (Afternoon)</itunes:title>
+      <description></description>
+      <pubDate>Sat, 22 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-22T06:09:16.737Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1yejAnrbItLeWkjSRw5cyoYQfbfeGMezA" type="audio/mpeg" length="78684828"></enclosure>
+      <itunes:duration>4917</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
