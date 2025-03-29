@@ -141,10 +141,10 @@
       <guid isPermaLink="false">b89ff756-ed1b-4b65-92d7-38135f8542ce</guid>
       <title>Glen Ramsay - The Missing Peace</title>
       <itunes:title>Glen Ramsay - The Missing Peace</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 22 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-22T05:59:01.500Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1QAjItAQ6mVsIRB0G6C9aCqBMvxBZ7erv" type="audio/mpeg" length="70270891"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1QAjItAQ6mVsIRB0G6C9aCqBMvxBZ7erv" type="audio/mpeg" length="70270891" />
       <itunes:duration>4391</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -155,7 +155,7 @@
       <description>The recording dropped out and is continues in part 2 (b).</description>
       <pubDate>Sat, 22 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-22T06:09:16.737Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1yejAnrbItLeWkjSRw5cyoYQfbfeGMezA" type="audio/mpeg" length="78684828"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1yejAnrbItLeWkjSRw5cyoYQfbfeGMezA" type="audio/mpeg" length="78684828" />
       <itunes:duration>4917</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -166,8 +166,19 @@
       <description>This is the continuation of Bible Translations part 2 (a).</description>
       <pubDate>Sat, 22 Mar 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-03-22T06:10:09.529Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1wbMStOYjmLuN0Vj_8mjWGFcnuKTOhFCU" type="audio/mpeg" length="17828299"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1wbMStOYjmLuN0Vj_8mjWGFcnuKTOhFCU" type="audio/mpeg" length="17828299" />
       <itunes:duration>1114</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item xmlns="http://www.w3.org/1999/xhtml">
+      <guid isPermaLink="false">dacb014f-fcd2-4671-9024-fe2a347737ab</guid>
+      <title>Peter Klan - Will He Find Faith</title>
+      <itunes:title>Peter Klan - Will He Find Faith</itunes:title>
+      <description></description>
+      <pubDate>Sat, 29 Mar 2025 11:00:00 -660</pubDate>
+      <a10:updated>2025-03-29T04:15:08.656Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1d5hFBFnbLgEHHo4wS71HAoeGGoI0skHN" type="audio/mpeg" length="56980207"></enclosure>
+      <itunes:duration>3561</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
