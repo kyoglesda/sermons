@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">8ab41bf3-3e5f-49fc-b04c-04581345ee06</guid>
+      <title>Fernand Lombart - 8 Steps to Heaven</title>
+      <itunes:title>Fernand Lombart - 8 Steps to Heaven</itunes:title>
+      <description></description>
+      <pubDate>Sat, 5 Apr 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-04-05T06:39:51.508Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1sBSacjdobNvZ0Lf1X88ujZAQv_9O0P_L" type="audio/mpeg" length="61502943"></enclosure>
+      <itunes:duration>3843</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">dacb014f-fcd2-4671-9024-fe2a347737ab</guid>
       <title>Peter Klan - Will He Find Faith</title>
       <itunes:title>Peter Klan - Will He Find Faith</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 29 Mar 2025 11:00:00 -660</pubDate>
       <a10:updated>2025-03-29T04:15:08.656Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1d5hFBFnbLgEHHo4wS71HAoeGGoI0skHN" type="audio/mpeg" length="56980207"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1d5hFBFnbLgEHHo4wS71HAoeGGoI0skHN" type="audio/mpeg" length="56980207" />
       <itunes:duration>3561</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
