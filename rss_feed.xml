@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">12f161fe-64d1-4d7d-a669-a95b742a1a34</guid>
+      <title>Caleb Smith - Enough</title>
+      <itunes:title>Caleb Smith - Enough</itunes:title>
+      <description></description>
+      <pubDate>Sat, 19 Apr 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-04-19T04:56:01.586Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1bmJ4UdOo0SL8BrAQZ5m-2ApxoklIICyf" type="audio/mpeg" length="41613520"></enclosure>
+      <itunes:duration>2600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">7027cb26-2c66-4241-998b-0381238724c9</guid>
       <title>Gerard Sexton - Prophetic Embarressment</title>
       <itunes:title>Gerard Sexton - Prophetic Embarressment</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 12 Apr 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-04-12T04:49:08.227Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1akbhXMyk255tflSs85dpwzNXVkXI__zt" type="audio/mpeg" length="48273281"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1akbhXMyk255tflSs85dpwzNXVkXI__zt" type="audio/mpeg" length="48273281" />
       <itunes:duration>3017</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
