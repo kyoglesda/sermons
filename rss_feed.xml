@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">8f162639-78d9-437f-8274-bc1a534b36ec</guid>
+      <title>Glen Ramsay - Bible Translations Part 3</title>
+      <itunes:title>Glen Ramsay - Bible Translations Part 3</itunes:title>
+      <description>This week Glen looks into the New King James Version (NKJV)</description>
+      <pubDate>Sat, 26 Apr 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-04-26T07:21:37.629Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1JrOcWgJ4dK6ZIh5Wr5s3m8t0nlYiAkuH" type="audio/mpeg" length="106143074"></enclosure>
+      <itunes:duration>6633</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">cdc741f8-7495-4369-b25b-39abbed94bda</guid>
       <title>Kenneth Olak - The Faith of Jesus</title>
       <itunes:title>Kenneth Olak - The Faith of Jesus</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 26 Apr 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-04-26T07:11:15.948Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1o8Kn_h3rLBXk8ldfcUcKGEpPF4MjOs6b" type="audio/mpeg" length="73057007"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1o8Kn_h3rLBXk8ldfcUcKGEpPF4MjOs6b" type="audio/mpeg" length="73057007" />
       <itunes:duration>4565</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
