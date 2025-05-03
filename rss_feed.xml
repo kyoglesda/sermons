@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">846e7553-368e-4448-aa6f-c16748fbc977</guid>
+      <title>Adam Cinzio - He Who Has an Ear Part 2</title>
+      <itunes:title>Adam Cinzio - He Who Has an Ear Part 2</itunes:title>
+      <description></description>
+      <pubDate>Sat, 3 May 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-05-03T07:10:29.559Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1LBJT8eVJfK_esZkpYD5rTQmDtUJo1eBL" type="audio/mpeg" length="52527270"></enclosure>
+      <itunes:duration>3282</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">8f162639-78d9-437f-8274-bc1a534b36ec</guid>
       <title>Glen Ramsay - Bible Translations Part 3</title>
       <itunes:title>Glen Ramsay - Bible Translations Part 3</itunes:title>
       <description>This week Glen looks into the New King James Version (NKJV)</description>
       <pubDate>Sat, 26 Apr 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-04-26T07:21:37.629Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1JrOcWgJ4dK6ZIh5Wr5s3m8t0nlYiAkuH" type="audio/mpeg" length="106143074"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1JrOcWgJ4dK6ZIh5Wr5s3m8t0nlYiAkuH" type="audio/mpeg" length="106143074" />
       <itunes:duration>6633</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
