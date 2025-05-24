@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">b37e44d4-5e7d-421b-af97-76246340de73</guid>
+      <title>Chris Jackson - Angels were Silent</title>
+      <itunes:title>Chris Jackson - Angels were Silent</itunes:title>
+      <description></description>
+      <pubDate>Sat, 24 May 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-05-24T06:56:04.736Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=10yTS63wogv0j1uwAgl1CQPQaRkSg2mAE" type="audio/mpeg" length="23738659"></enclosure>
+      <itunes:duration>1483</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">b3a4d997-72d7-4cb9-a25b-ce5a354f2dc8</guid>
       <title>Adam Cinzio - He Who Has an Ear Part 3</title>
       <itunes:title>Adam Cinzio - He Who Has an Ear Part 3</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 24 May 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-05-24T06:51:17.510Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1lrmZBqECmH0AkbE749dM7zJ5DM96GPy5" type="audio/mpeg" length="46387032"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1lrmZBqECmH0AkbE749dM7zJ5DM96GPy5" type="audio/mpeg" length="46387032" />
       <itunes:duration>2899</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
