@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">0f5a6947-e37c-4403-b9a7-f00de2d4da99</guid>
+      <title>Gerard Sexton - The Master Craftsman</title>
+      <itunes:title>Gerard Sexton - The Master Craftsman</itunes:title>
+      <description></description>
+      <pubDate>Sat, 31 May 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-05-31T05:32:03.623Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1rw8rBpuC-mpbm1QMH0iZP3qZfZVFpGdJ" type="audio/mpeg" length="63550526"></enclosure>
+      <itunes:duration>3971</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">f1e0ea05-89c1-4001-b3a7-79c5bfce9d39</guid>
       <title>Glen Ramsay - Health and Seventh-day Adventists (Afternoon program)</title>
       <itunes:title>Glen Ramsay - Health and Seventh-day Adventists (Afternoon program)</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 24 May 2025 14:30:00 +1000</pubDate>
       <a10:updated>2025-05-24T07:00:29.598Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1XOnR46MQQkXAsObmAYWU19XiUTJvIeY-" type="audio/mpeg" length="102430343"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1XOnR46MQQkXAsObmAYWU19XiUTJvIeY-" type="audio/mpeg" length="102430343" />
       <itunes:duration>6401</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
