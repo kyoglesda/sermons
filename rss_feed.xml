@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">a8f5193a-f440-499d-9b36-c88735e4cdaf</guid>
+      <title>Kenneth Olak - The Sealing</title>
+      <itunes:title>Kenneth Olak - The Sealing</itunes:title>
+      <description></description>
+      <pubDate>Sat, 28 Jun 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-06-28T08:05:46.882Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1PaAKGM1cRa2tSMnzPmaAMCCs7LbreZ1E" type="audio/mpeg" length="88253585"></enclosure>
+      <itunes:duration>5515</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">9ee78a1b-c4db-43b2-bbf2-c1a6ba682009</guid>
       <title>Glen Ramsay - Bible Translations Part 3 (Take 2)</title>
       <itunes:title>Glen Ramsay - Bible Translations Part 3 (Take 2)</itunes:title>
       <description>This week Glen looks into the New King James Version (NKJV). This presentation is delivered again by popular demand.</description>
       <pubDate>Sat, 28 Jun 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-06-28T08:00:58.118Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1CxzyTMyYtMfGNh-_42jWAXC4-oCHQzYV" type="audio/mpeg" length="89762418"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1CxzyTMyYtMfGNh-_42jWAXC4-oCHQzYV" type="audio/mpeg" length="89762418" />
       <itunes:duration>5610</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
