@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">9ee78a1b-c4db-43b2-bbf2-c1a6ba682009</guid>
+      <title>Glen Ramsay - Bible Translations Part 3 (Take 2)</title>
+      <itunes:title>Glen Ramsay - Bible Translations Part 3 (Take 2)</itunes:title>
+      <description>This week Glen looks into the New King James Version (NKJV). This presentation is delivered again by popular demand.</description>
+      <pubDate>Sat, 28 Jun 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-06-28T08:00:58.118Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1CxzyTMyYtMfGNh-_42jWAXC4-oCHQzYV" type="audio/mpeg" length="89762418"></enclosure>
+      <itunes:duration>5610</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">327e3271-b366-4f37-b15f-165bdf0998cf</guid>
       <title>Harold Hardy - Faith is Trustworthy</title>
       <itunes:title>Harold Hardy - Faith is Trustworthy</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 21 Jun 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-06-21T06:28:56.930Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1h5qhDnoHKVQ5b0Ot9Xdw1A8SCGgh_Fl4" type="audio/mpeg" length="58824661"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1h5qhDnoHKVQ5b0Ot9Xdw1A8SCGgh_Fl4" type="audio/mpeg" length="58824661" />
       <itunes:duration>3676</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
