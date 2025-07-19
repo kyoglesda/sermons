@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">22f9c4e2-d7cd-4785-a815-3ea9024611a3</guid>
+      <title>Adam Cinzio - Does God Destroy?</title>
+      <itunes:title>Adam Cinzio - Does God Destroy?</itunes:title>
+      <description></description>
+      <pubDate>Sat, 19 Jul 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-07-19T05:08:19.622Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1n-nAnjCBCUnYC_Sh3ZsIAdA9vc4QbFFo" type="audio/mpeg" length="65140860"></enclosure>
+      <itunes:duration>4071</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">b1a2ffe2-5219-4c8d-b023-265b4de4afe0</guid>
       <title>Caleb Smith - With</title>
       <itunes:title>Caleb Smith - With</itunes:title>
       <description>Sermon recording started a few minutes after the prayer.</description>
       <pubDate>Sat, 12 Jul 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-07-12T05:06:58.152Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1wyASrsXLbocpUoN30i848m0m1uue815V" type="audio/mpeg" length="24888217"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1wyASrsXLbocpUoN30i848m0m1uue815V" type="audio/mpeg" length="24888217" />
       <itunes:duration>1466</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
