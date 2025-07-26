@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">a5da539b-37b9-4a6e-b9e4-90cc464e1df1</guid>
+      <title>Harold Hardy - Hope</title>
+      <itunes:title>Harold Hardy - Hope</itunes:title>
+      <description></description>
+      <pubDate>Sat, 26 Jul 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-07-26T06:43:15.050Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1PRDCQ-3msjp7EkoUFos1v1iWBZJLm1Ob" type="audio/mpeg" length="60594300"></enclosure>
+      <itunes:duration>3787</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">7939ad6d-8fc4-4b8c-b243-6e9ea164eded</guid>
       <title>Adam Cinzio - Does God Destroy?</title>
       <itunes:title>Adam Cinzio - Does God Destroy?</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 19 Jul 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-07-19T05:08:22.621Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1KJOO1TlIBeX4Q7sAudsRRYO9_nCXwumq" type="audio/mpeg" length="65140860"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1KJOO1TlIBeX4Q7sAudsRRYO9_nCXwumq" type="audio/mpeg" length="65140860" />
       <itunes:duration>4071</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
