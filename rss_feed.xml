@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">4efb40f9-132d-42c0-ad0f-5f450787f907</guid>
+      <title>Geoffery Furaha - Hope for the Hopeless</title>
+      <itunes:title>Geoffery Furaha - Hope for the Hopeless</itunes:title>
+      <description></description>
+      <pubDate>Sat, 9 Aug 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-08-09T06:38:16.579Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1a5iLRxlAJJ-1etUX56RfRCpMl6bmZf5Z" type="audio/mpeg" length="35842339"></enclosure>
+      <itunes:duration>2240</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">b3a0ece3-fafc-44db-ab61-c88210d0b3fa</guid>
       <title>Adam Cinzio - The Anatomy of a Lie</title>
       <itunes:title>Adam Cinzio - The Anatomy of a Lie</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 2 Aug 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-08-02T05:21:21.239Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1KG_CkOa3y2uNywaSW4617ue1ik5sFrW5" type="audio/mpeg" length="51375792"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1KG_CkOa3y2uNywaSW4617ue1ik5sFrW5" type="audio/mpeg" length="51375792" />
       <itunes:duration>3210</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
