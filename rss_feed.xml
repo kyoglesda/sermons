@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">2c5dac47-bb56-4d69-bf1a-231ead575cff</guid>
+      <title>Adam Cinzio - Recomitted</title>
+      <itunes:title>Adam Cinzio - Recomitted</itunes:title>
+      <description>This sermon preludes the ordinances service.</description>
+      <pubDate>Sat, 16 Aug 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-08-16T05:57:25.000Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1Crs8nvRSU_U331NK7rjl0-9qMh-zaTP3" type="audio/mpeg" length="28610764"></enclosure>
+      <itunes:duration>1626</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">4efb40f9-132d-42c0-ad0f-5f450787f907</guid>
       <title>Geoffery Furaha - Hope for the Hopeless</title>
       <itunes:title>Geoffery Furaha - Hope for the Hopeless</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 9 Aug 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-08-09T06:38:16.579Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1a5iLRxlAJJ-1etUX56RfRCpMl6bmZf5Z" type="audio/mpeg" length="35842339"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1a5iLRxlAJJ-1etUX56RfRCpMl6bmZf5Z" type="audio/mpeg" length="35842339" />
       <itunes:duration>2240</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
