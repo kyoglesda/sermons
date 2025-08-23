@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">cbb7aaa0-67b0-4627-8ddf-14960254989e</guid>
+      <title>Kevin Munro - The Weakest Saint</title>
+      <itunes:title>Kevin Munro - The Weakest Saint</itunes:title>
+      <description></description>
+      <pubDate>Sat, 23 Aug 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-08-23T03:21:38.239Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1aE7wnL-kl_4JFhEGXIxfqRWY_Pmfng7k" type="audio/mpeg" length="54459495"></enclosure>
+      <itunes:duration>3403</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">2c5dac47-bb56-4d69-bf1a-231ead575cff</guid>
       <title>Adam Cinzio - Recommitted</title>
       <itunes:title>Adam Cinzio - Recommitted</itunes:title>
       <description>This sermon preludes the ordinances service.</description>
       <pubDate>Sat, 16 Aug 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-08-16T05:57:25.000Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1Crs8nvRSU_U331NK7rjl0-9qMh-zaTP3" type="audio/mpeg" length="28610764"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1Crs8nvRSU_U331NK7rjl0-9qMh-zaTP3" type="audio/mpeg" length="28610764" />
       <itunes:duration>1626</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
