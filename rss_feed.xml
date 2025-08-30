@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">791401bb-943b-42ea-8cca-de5eedf99852</guid>
+      <title>Gerard Sedxton - The Message in the Stars</title>
+      <itunes:title>Gerard Sedxton - The Message in the Stars</itunes:title>
+      <description></description>
+      <pubDate>Sat, 30 Aug 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-08-30T04:05:57.773Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1-_wDyrfwwjAtoLoqfDEGPorid3vi1YMJ" type="audio/mpeg" length="74012880"></enclosure>
+      <itunes:duration>4625</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">cbb7aaa0-67b0-4627-8ddf-14960254989e</guid>
       <title>Kevin Munro - The Weakest Saint</title>
       <itunes:title>Kevin Munro - The Weakest Saint</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 23 Aug 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-08-23T03:21:38.239Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1aE7wnL-kl_4JFhEGXIxfqRWY_Pmfng7k" type="audio/mpeg" length="54459495"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1aE7wnL-kl_4JFhEGXIxfqRWY_Pmfng7k" type="audio/mpeg" length="54459495" />
       <itunes:duration>3403</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
