@@ -19,13 +19,26 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">c6610ae5-604f-4f65-8e1c-d820bd26b29f</guid>
+      <title>Adam Cinzio - Singing in the Darkness</title>
+      <itunes:title>Adam Cinzio - Singing in the Darkness</itunes:title>
+      <description></description>
+      <pubDate>Sat, 6 Sep 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-09-06T07:10:27.292Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1RH7ic-HK3Fp4ECSAuby3N4wEvQht0w_l" type="audio/mpeg" length="27224439"></enclosure>
+      <itunes:duration>1701</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">791401bb-943b-42ea-8cca-de5eedf99852</guid>
       <title>Gerard Sexton - The Message in the Stars</title>
       <itunes:title>Gerard Sexton - The Message in the Stars</itunes:title>
-      <description><![CDATA[Gerard Sexton explores the signs of the Zodiac and their spiritual significance. This sermon requires visual aids so please view the <a href="https://drive.google.com/file/d/1DODZDiY5lgur9NtNnMBMPiIomHghCpOs/view?usp=sharing">presentation slides on Google Drive</a> or view the <a href="https://drive.google.com/uc?id=1DODZDiY5lgur9NtNnMBMPiIomHghCpOs">PDF directly here</a>.]]></description>
+      <description>
+        <![CDATA[Gerard Sexton explores the signs of the Zodiac and their spiritual significance. This sermon requires visual aids so please view the <a href="https://drive.google.com/file/d/1DODZDiY5lgur9NtNnMBMPiIomHghCpOs/view?usp=sharing">presentation slides on Google Drive</a> or view the <a href="https://drive.google.com/uc?id=1DODZDiY5lgur9NtNnMBMPiIomHghCpOs">PDF directly here</a>.]]>
+      </description>
       <pubDate>Sat, 30 Aug 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-08-30T04:05:57.773Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1-_wDyrfwwjAtoLoqfDEGPorid3vi1YMJ" type="audio/mpeg" length="74012880"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1-_wDyrfwwjAtoLoqfDEGPorid3vi1YMJ" type="audio/mpeg" length="74012880" />
       <itunes:duration>4625</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
