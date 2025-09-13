@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">66f9596a-7602-4f54-82c8-697a61246c1b</guid>
+      <title>Tim Merritt - How to give Bible Studies (Afternoon program)</title>
+      <itunes:title>Tim Merritt - How to give Bible Studies (Afternoon program)</itunes:title>
+      <description>Tim Merritt gives use a lesson and resources on how to give Bible studies with people. The Bible Marking Guide published by Echo Ministries was distributed.</description>
+      <pubDate>Sat, 13 Sep 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-09-13T05:39:22.538Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1PMnCpd6DFjgzYPSLqiwPtNaN9mVxvYjF" type="audio/mpeg" length="72907434"></enclosure>
+      <itunes:duration>4189</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">782626cf-28af-4703-b5fb-707f8c9b6d18</guid>
       <title>Tim Merritt - Preparedness for Discipleship</title>
       <itunes:title>Tim Merritt - Preparedness for Discipleship</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 13 Sep 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-09-13T02:51:15.548Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1mg_AXYscNN61uGiZ0JO7vlS8hD9CV1PK" type="audio/mpeg" length="32071094"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1mg_AXYscNN61uGiZ0JO7vlS8hD9CV1PK" type="audio/mpeg" length="32071094" />
       <itunes:duration>2004</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
