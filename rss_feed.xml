@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">782626cf-28af-4703-b5fb-707f8c9b6d18</guid>
+      <title>Tim Merritt - Preparedness for Discipleship</title>
+      <itunes:title>Tim Merritt - Preparedness for Discipleship</itunes:title>
+      <description></description>
+      <pubDate>Sat, 13 Sep 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-09-13T02:51:15.548Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1mg_AXYscNN61uGiZ0JO7vlS8hD9CV1PK" type="audio/mpeg" length="32071094"></enclosure>
+      <itunes:duration>2004</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">c6610ae5-604f-4f65-8e1c-d820bd26b29f</guid>
       <title>Adam Cinzio - Singing in the Darkness</title>
       <itunes:title>Adam Cinzio - Singing in the Darkness</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 6 Sep 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-09-06T07:10:27.292Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1RH7ic-HK3Fp4ECSAuby3N4wEvQht0w_l" type="audio/mpeg" length="27224439"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1RH7ic-HK3Fp4ECSAuby3N4wEvQht0w_l" type="audio/mpeg" length="27224439" />
       <itunes:duration>1701</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
