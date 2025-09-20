@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">0fb92600-f56c-43ac-be37-dc7cec0d9799</guid>
+      <title>Pastor Abel - Faithfull in Babylon</title>
+      <itunes:title>Pastor Abel - Faithfull in Babylon</itunes:title>
+      <description></description>
+      <pubDate>Sat, 20 Sep 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-09-20T02:54:21.600Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1GUJfa53x6efQ0J_5ZY5dRo__-rZXUYqO" type="audio/mpeg" length="12595032"></enclosure>
+      <itunes:duration>2098</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">66f9596a-7602-4f54-82c8-697a61246c1b</guid>
       <title>Tim Merritt - How to give Bible Studies (Afternoon program)</title>
       <itunes:title>Tim Merritt - How to give Bible Studies (Afternoon program)</itunes:title>
       <description>Tim Merritt gives use a lesson and resources on how to give Bible studies with people. The Bible Marking Guide published by Echo Ministries was distributed.</description>
       <pubDate>Sat, 13 Sep 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-09-13T05:39:22.538Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1PMnCpd6DFjgzYPSLqiwPtNaN9mVxvYjF" type="audio/mpeg" length="72907434"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1PMnCpd6DFjgzYPSLqiwPtNaN9mVxvYjF" type="audio/mpeg" length="72907434" />
       <itunes:duration>4189</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
