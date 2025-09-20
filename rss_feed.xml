@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">58828ea3-521d-4e30-aa98-36dc7be7e082</guid>
+      <title>Fernand Lombart - The Heavenly Feast RSVP</title>
+      <itunes:title>Fernand Lombart - The Heavenly Feast RSVP</itunes:title>
+      <description></description>
+      <pubDate>Sat, 20 Sep 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-09-20T04:57:40.059Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1cLr2pAapJBtZE7civGVjad2-VEYqJpXM" type="audio/mpeg" length="12118558"></enclosure>
+      <itunes:duration>2019</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">0fb92600-f56c-43ac-be37-dc7cec0d9799</guid>
       <title>Pastor Abel - Faithfull in Babylon</title>
       <itunes:title>Pastor Abel - Faithfull in Babylon</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 20 Sep 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-09-20T02:54:21.600Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1GUJfa53x6efQ0J_5ZY5dRo__-rZXUYqO" type="audio/mpeg" length="12595032"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1GUJfa53x6efQ0J_5ZY5dRo__-rZXUYqO" type="audio/mpeg" length="12595032" />
       <itunes:duration>2098</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
