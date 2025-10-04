@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">f3b5d958-01d4-482b-ae00-45ab07889f75</guid>
+      <title>Adam Cinzio et al - Testimonies and Praise</title>
+      <itunes:title>Adam Cinzio et al - Testimonies and Praise</itunes:title>
+      <description>This service has testimonies and praise by the congregation. Silent sections have been removed from the recording.</description>
+      <pubDate>Sat, 4 Oct 2025 11:00:00 +1000</pubDate>
+      <a10:updated>2025-10-04T07:17:36.786Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1glP19EG_hIyHtYnP-3m_3FuezMkXP9Y1" type="audio/mpeg" length="21762192"></enclosure>
+      <itunes:duration>2189</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">58828ea3-521d-4e30-aa98-36dc7be7e082</guid>
       <title>Fernand Lombart - The Heavenly Feast RSVP</title>
       <itunes:title>Fernand Lombart - The Heavenly Feast RSVP</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 20 Sep 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-09-20T04:57:40.059Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1cLr2pAapJBtZE7civGVjad2-VEYqJpXM" type="audio/mpeg" length="12118558"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1cLr2pAapJBtZE7civGVjad2-VEYqJpXM" type="audio/mpeg" length="12118558" />
       <itunes:duration>2019</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
