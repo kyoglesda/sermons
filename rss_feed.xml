@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">5b0b1d89-4cb0-44e9-9022-0aaa54b61b4e</guid>
+      <title>Kevin Munroe - The Ultimate Search Engine</title>
+      <itunes:title>Kevin Munroe - The Ultimate Search Engine</itunes:title>
+      <description></description>
+      <pubDate>Sat, 11 Oct 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-10-11T03:11:11.122Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1R-jzbUeOgiisDSNJT3dOoWqlDkBxTsTJ" type="audio/mpeg" length="16156514"></enclosure>
+      <itunes:duration>2692</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">58828ea3-521d-4e30-aa98-36dc7be7e082</guid>
       <title>Fernand Lombart - The Heavenly Feast RSVP</title>
       <itunes:title>Fernand Lombart - The Heavenly Feast RSVP</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 20 Sep 2025 11:00:00 +1000</pubDate>
       <a10:updated>2025-09-20T04:57:40.059Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1cLr2pAapJBtZE7civGVjad2-VEYqJpXM" type="audio/mpeg" length="12118558"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1cLr2pAapJBtZE7civGVjad2-VEYqJpXM" type="audio/mpeg" length="12118558" />
       <itunes:duration>2019</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
