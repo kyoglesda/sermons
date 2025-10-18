@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">79d2c920-5706-4f42-a262-03ea47b19bf5</guid>
+      <title>Kevin Munroe - A Feast of Truth</title>
+      <itunes:title>Kevin Munroe - A Feast of Truth</itunes:title>
+      <description></description>
+      <pubDate>Sat, 18 Oct 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-10-18T04:32:50.151Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1mfdlZdz9PnIihDd48owEU_7rD1iNm0_N" type="audio/mpeg" length="27323861"></enclosure>
+      <itunes:duration>4553</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">5b0b1d89-4cb0-44e9-9022-0aaa54b61b4e</guid>
       <title>Kevin Munroe - The Ultimate Search Engine</title>
       <itunes:title>Kevin Munroe - The Ultimate Search Engine</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 11 Oct 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-10-11T03:11:11.122Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1R-jzbUeOgiisDSNJT3dOoWqlDkBxTsTJ" type="audio/mpeg" length="16156514"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1R-jzbUeOgiisDSNJT3dOoWqlDkBxTsTJ" type="audio/mpeg" length="16156514" />
       <itunes:duration>2692</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
