@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">8d361e87-b513-4f8d-a189-9bacee2e8d06</guid>
+      <title>Brother Harold Hardy - How Great is Ypor Love</title>
+      <itunes:title>Brother Harold Hardy - How Great is Ypor Love</itunes:title>
+      <description></description>
+      <pubDate>Sat, 25 Oct 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-10-25T01:43:50.775Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1C1ScXwBsdYQLc46XwfHq0uJVdRN-LQql" type="audio/mpeg" length="14055642"></enclosure>
+      <itunes:duration>2342</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">79d2c920-5706-4f42-a262-03ea47b19bf5</guid>
       <title>Kevin Munroe - A Feast of Truth</title>
       <itunes:title>Kevin Munroe - A Feast of Truth</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 18 Oct 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-10-18T04:32:50.151Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1mfdlZdz9PnIihDd48owEU_7rD1iNm0_N" type="audio/mpeg" length="27323861"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1mfdlZdz9PnIihDd48owEU_7rD1iNm0_N" type="audio/mpeg" length="27323861" />
       <itunes:duration>4553</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
