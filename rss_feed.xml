@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">4dd6522a-c186-4ff7-8c01-4b0bb43ba486</guid>
+      <title>Theo Sison - Jesus Second Comming</title>
+      <itunes:title>Theo Sison - Jesus Second Comming</itunes:title>
+      <description></description>
+      <pubDate>Sat, 1 Nov 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-11-01T03:51:32.605Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1JkW7A6s0H5nx6PNHuz2lpu7-_243o1OM" type="audio/mpeg" length="22641412"></enclosure>
+      <itunes:duration>3773</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">8d361e87-b513-4f8d-a189-9bacee2e8d06</guid>
       <title>Brother Harold Hardy - How Great is Ypor Love</title>
       <itunes:title>Brother Harold Hardy - How Great is Ypor Love</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 25 Oct 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-10-25T01:43:50.775Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1C1ScXwBsdYQLc46XwfHq0uJVdRN-LQql" type="audio/mpeg" length="14055642"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1C1ScXwBsdYQLc46XwfHq0uJVdRN-LQql" type="audio/mpeg" length="14055642" />
       <itunes:duration>2342</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
