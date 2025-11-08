@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">75016154-a73b-42ff-951c-3dd07529b896</guid>
+      <title>Chris Jackson - Is it Safe to Follow the Majority?</title>
+      <itunes:title>Chris Jackson - Is it Safe to Follow the Majority?</itunes:title>
+      <description></description>
+      <pubDate>Sat, 8 Nov 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-11-08T05:11:55.009Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1exXBL9s6VnJceilBkrug4xK9A_WPMvqA" type="audio/mpeg" length="11886591"></enclosure>
+      <itunes:duration>1980</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">4dd6522a-c186-4ff7-8c01-4b0bb43ba486</guid>
       <title>Theo Sison - Jesus Second Comming</title>
       <itunes:title>Theo Sison - Jesus Second Comming</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 1 Nov 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-11-01T03:51:32.605Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1JkW7A6s0H5nx6PNHuz2lpu7-_243o1OM" type="audio/mpeg" length="22641412"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1JkW7A6s0H5nx6PNHuz2lpu7-_243o1OM" type="audio/mpeg" length="22641412" />
       <itunes:duration>3773</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
