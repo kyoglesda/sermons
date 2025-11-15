@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">bb524ff9-d64f-459e-94b1-020b4914e599</guid>
+      <title>Katherine Gobbert - Memorisation</title>
+      <itunes:title>Katherine Gobbert - Memorisation</itunes:title>
+      <description></description>
+      <pubDate>Sat, 15 Nov 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-11-15T02:05:37.060Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1i8l5t53UJHxrUH6Xq3nMidqGfqvQsHC6" type="audio/mpeg" length="15712955"></enclosure>
+      <itunes:duration>2618</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">75016154-a73b-42ff-951c-3dd07529b896</guid>
       <title>Chris Jackson - Is it Safe to Follow the Majority?</title>
       <itunes:title>Chris Jackson - Is it Safe to Follow the Majority?</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 8 Nov 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-11-08T05:11:55.009Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1exXBL9s6VnJceilBkrug4xK9A_WPMvqA" type="audio/mpeg" length="11886591"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1exXBL9s6VnJceilBkrug4xK9A_WPMvqA" type="audio/mpeg" length="11886591" />
       <itunes:duration>1980</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
