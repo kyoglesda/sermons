@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">eba4b879-6d83-421b-8c5e-56be5a14c37a</guid>
+      <title>Gerard Sexton - God's Great Globe</title>
+      <itunes:title>Gerard Sexton - God's Great Globe</itunes:title>
+      <description></description>
+      <pubDate>Sat, 22 Nov 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-11-22T02:38:29.073Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1UNRKChJvp14tV6fo38VOAFFwWXkg0OF6" type="audio/mpeg" length="27803783"></enclosure>
+      <itunes:duration>4633</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">bb524ff9-d64f-459e-94b1-020b4914e599</guid>
       <title>Katherine Gobbert - Memorisation</title>
       <itunes:title>Katherine Gobbert - Memorisation</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 15 Nov 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-11-15T02:05:37.060Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1i8l5t53UJHxrUH6Xq3nMidqGfqvQsHC6" type="audio/mpeg" length="15712955"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1i8l5t53UJHxrUH6Xq3nMidqGfqvQsHC6" type="audio/mpeg" length="15712955" />
       <itunes:duration>2618</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
