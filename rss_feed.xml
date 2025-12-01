@@ -19,6 +19,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">fa6f2708-0080-40d6-babe-d17aa5bd83a5</guid>
+      <title>Kevin Munro - Rahab's Wall</title>
+      <itunes:title>Kevin Munro - Rahab's Wall</itunes:title>
+      <description></description>
+      <pubDate>Mon, 1 Dec 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-12-01T00:35:10.482Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=19f0UVeMe3WKTVWtuOmcgOQ681B4SuV5k" type="audio/mpeg" length="11861670"></enclosure>
+      <itunes:duration>1976</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">eba4b879-6d83-421b-8c5e-56be5a14c37a</guid>
       <title>Gerard Sexton - God's Great Globe</title>
       <itunes:title>Gerard Sexton - God's Great Globe</itunes:title>
@@ -27,7 +38,7 @@
       </description>
       <pubDate>Sat, 22 Nov 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-11-22T02:38:29.073Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1UNRKChJvp14tV6fo38VOAFFwWXkg0OF6" type="audio/mpeg" length="27803783"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1UNRKChJvp14tV6fo38VOAFFwWXkg0OF6" type="audio/mpeg" length="27803783" />
       <itunes:duration>4633</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
