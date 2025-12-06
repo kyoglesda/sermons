@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">ebfb26a9-180a-42c5-83e8-66629f5dd72f</guid>
+      <title>Adam Cinzio - Our Extremely Generous God</title>
+      <itunes:title>Adam Cinzio - Our Extremely Generous God</itunes:title>
+      <description></description>
+      <pubDate>Sat, 6 Dec 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-12-06T06:20:08.485Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=18UdhjQwOnixu17HK2-kJQI5vrXFgETTI" type="audio/mpeg" length="18711209"></enclosure>
+      <itunes:duration>1114</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">fa6f2708-0080-40d6-babe-d17aa5bd83a5</guid>
       <title>Kevin Munro - Rahab's Wall</title>
       <itunes:title>Kevin Munro - Rahab's Wall</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Mon, 1 Dec 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-12-01T00:35:10.482Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=19f0UVeMe3WKTVWtuOmcgOQ681B4SuV5k" type="audio/mpeg" length="11861670"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=19f0UVeMe3WKTVWtuOmcgOQ681B4SuV5k" type="audio/mpeg" length="11861670" />
       <itunes:duration>1976</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
