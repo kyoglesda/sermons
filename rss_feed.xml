@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">83bb835b-53e4-47d8-8687-e52c3a10369e</guid>
+      <title>Caleb Smith - Waiting for the Bridegroom</title>
+      <itunes:title>Caleb Smith - Waiting for the Bridegroom</itunes:title>
+      <description></description>
+      <pubDate>Sat, 27 Dec 2025 11:00:00 +1100</pubDate>
+      <a10:updated>2025-12-27T03:33:58.189Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1vyB9DibSdUc8-usgwPDnhwL5501mUxMK" type="audio/mpeg" length="24375370"></enclosure>
+      <itunes:duration>1530</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">236e2544-b251-409a-90ec-26fb7d9fe113</guid>
       <title>Caleb Smith - Overflow</title>
       <itunes:title>Caleb Smith - Overflow</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 13 Dec 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-12-13T04:36:11.800Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1-NoDT13LdjgnoXPhSe4DINWqA-N8nVt7" type="audio/mpeg" length="48636906"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1-NoDT13LdjgnoXPhSe4DINWqA-N8nVt7" type="audio/mpeg" length="48636906" />
       <itunes:duration>3039</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
