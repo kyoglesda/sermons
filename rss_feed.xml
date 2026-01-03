@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">4a24d154-94e2-4baa-90a7-3747e6c13557</guid>
+      <title>Adam Cinzio - The Thing Worth Forgetting</title>
+      <itunes:title>Adam Cinzio - The Thing Worth Forgetting</itunes:title>
+      <description></description>
+      <pubDate>Sat, 3 Jan 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-01-03T05:04:29.979Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1a6eRTBE-BTQvoUmmc96U4HAn4E3sLuMf" type="audio/mpeg" length="38692821"></enclosure>
+      <itunes:duration>2418</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">83bb835b-53e4-47d8-8687-e52c3a10369e</guid>
       <title>Kevin Naude - Waiting for the Bridegroom</title>
       <itunes:title>Kevin Naude - Waiting for the Bridegroom</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 27 Dec 2025 11:00:00 +1100</pubDate>
       <a10:updated>2025-12-27T03:33:58.189Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1vyB9DibSdUc8-usgwPDnhwL5501mUxMK" type="audio/mpeg" length="24375370"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1vyB9DibSdUc8-usgwPDnhwL5501mUxMK" type="audio/mpeg" length="24375370" />
       <itunes:duration>1530</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
