@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">add8e471-67c9-4eab-af1d-86810cff072b</guid>
+      <title>Keneth Olak - The Final Message of the Hour</title>
+      <itunes:title>Keneth Olak - The Final Message of the Hour</itunes:title>
+      <description></description>
+      <pubDate>Sat, 17 Jan 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-01-17T07:27:47.956Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=143AUozGIoQUxEOMJKEUeEYvxB5aJ7AC4" type="audio/mpeg" length="95444991"></enclosure>
+      <itunes:duration>5965</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">1b3ef575-a0da-4320-a808-d3b8f5f6ecf0</guid>
       <title>Theo Sison - The Mystery of Death</title>
       <itunes:title>Theo Sison - The Mystery of Death</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 10 Jan 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-01-10T06:14:33.350Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1hwnmCrUWgsxWplYUMUBIwdSYekyQWegu" type="audio/mpeg" length="71276935"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1hwnmCrUWgsxWplYUMUBIwdSYekyQWegu" type="audio/mpeg" length="71276935" />
       <itunes:duration>4498</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
