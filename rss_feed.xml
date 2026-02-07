@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">a4e501fe-eab2-4da8-870b-6f6e905b5d1d</guid>
+      <title>Caleb Smith - Whisper</title>
+      <itunes:title>Caleb Smith - Whisper</itunes:title>
+      <description></description>
+      <pubDate>Sat, 7 Feb 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-02-07T06:39:43.089Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1nXVbBMOikpLzS6dQCmNNy4Ve-hzH16Of" type="audio/mpeg" length="46067711"></enclosure>
+      <itunes:duration>2879</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">26567c57-edc3-4157-8b97-552a4f33c5b4</guid>
       <title>Lucinda Ramsay - Uniquely equipped for the calling</title>
       <itunes:title>Lucinda Ramsay - Uniquely equipped for the calling</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 7 Feb 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-02-07T06:36:31.449Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1PlU91QTT3kG0Ayt1CUJEUxGw1weqT64b" type="audio/mpeg" length="51689680"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1PlU91QTT3kG0Ayt1CUJEUxGw1weqT64b" type="audio/mpeg" length="51689680" />
       <itunes:duration>3230</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
