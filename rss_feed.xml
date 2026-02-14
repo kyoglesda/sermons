@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">04b33c1b-a977-43b0-ba99-761ee989e811</guid>
+      <title>Theo Sison - United States in Bible Prophecy</title>
+      <itunes:title>Theo Sison - United States in Bible Prophecy</itunes:title>
+      <description></description>
+      <pubDate>Sat, 14 Feb 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-02-14T02:20:01.418Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1yLNIWCs5oOjaiCgACRrFtDUsGKAnKOFW" type="audio/mpeg" length="48329449"></enclosure>
+      <itunes:duration>2795</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">a4e501fe-eab2-4da8-870b-6f6e905b5d1d</guid>
       <title>Caleb Smith - Whisper</title>
       <itunes:title>Caleb Smith - Whisper</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 7 Feb 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-02-07T06:39:43.089Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1nXVbBMOikpLzS6dQCmNNy4Ve-hzH16Of" type="audio/mpeg" length="46067711"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1nXVbBMOikpLzS6dQCmNNy4Ve-hzH16Of" type="audio/mpeg" length="46067711" />
       <itunes:duration>2879</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
