@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">58cf8dbe-0a9a-4f99-bfd7-d16b4d2b5201</guid>
+      <title>Adam Cinzio - What I Like About God's Family</title>
+      <itunes:title>Adam Cinzio - What I Like About God's Family</itunes:title>
+      <description></description>
+      <pubDate>Sat, 21 Feb 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-02-21T01:51:19.412Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1eveXFKcddx_UB_escjfbklHYfYddy0Ed" type="audio/mpeg" length="48967094"></enclosure>
+      <itunes:duration>3060</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">04b33c1b-a977-43b0-ba99-761ee989e811</guid>
       <title>Theo Sison - United States in Bible Prophecy</title>
       <itunes:title>Theo Sison - United States in Bible Prophecy</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 14 Feb 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-02-14T02:20:01.418Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1yLNIWCs5oOjaiCgACRrFtDUsGKAnKOFW" type="audio/mpeg" length="48329449"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1yLNIWCs5oOjaiCgACRrFtDUsGKAnKOFW" type="audio/mpeg" length="48329449" />
       <itunes:duration>2795</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
