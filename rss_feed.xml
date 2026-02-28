@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">db22e25d-e7d2-4130-b324-ec59b4cb9ccd</guid>
+      <title>Kevin Naudé - Christ our Salvation</title>
+      <itunes:title>Kevin Naudé - Christ our Salvation</itunes:title>
+      <description></description>
+      <pubDate>Sat, 28 Feb 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-02-28T01:47:01.828Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1D62dGDM4l8TJjZNx4GUrx3JfCXAC6fxj" type="audio/mpeg" length="21406029"></enclosure>
+      <itunes:duration>1337</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">58cf8dbe-0a9a-4f99-bfd7-d16b4d2b5201</guid>
       <title>Adam Cinzio - What I Like About God's Family</title>
       <itunes:title>Adam Cinzio - What I Like About God's Family</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 21 Feb 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-02-21T01:51:19.412Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1eveXFKcddx_UB_escjfbklHYfYddy0Ed" type="audio/mpeg" length="48967094"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1eveXFKcddx_UB_escjfbklHYfYddy0Ed" type="audio/mpeg" length="48967094" />
       <itunes:duration>3060</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
