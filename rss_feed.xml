@@ -22,10 +22,12 @@
       <guid isPermaLink="false">db22e25d-e7d2-4130-b324-ec59b4cb9ccd</guid>
       <title>Kevin Naudé - Christ our Salvation</title>
       <itunes:title>Kevin Naudé - Christ our Salvation</itunes:title>
-      <description></description>
+      <description>
+        <![CDATA[Please view the <a href="https://drive.google.com/file/d/1wbvttmvdOldeH5KLPIdslWLq5S0qobhM/view?usp=sharing">presentation slides on Google Drive</a> or view the <a href="https://drive.google.com/uc?id=1wbvttmvdOldeH5KLPIdslWLq5S0qobhM">PDF directly here</a>.]]>
+      </description>
       <pubDate>Sat, 28 Feb 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-02-28T01:47:01.828Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1D62dGDM4l8TJjZNx4GUrx3JfCXAC6fxj" type="audio/mpeg" length="21406029"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1D62dGDM4l8TJjZNx4GUrx3JfCXAC6fxj" type="audio/mpeg" length="21406029" />
       <itunes:duration>1337</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
