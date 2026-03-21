@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">551e6aab-ecff-41d2-a142-fd12685d0e3c</guid>
+      <title>Pastor Fernand Lombart - Journey from Christian toDeciple</title>
+      <itunes:title>Pastor Fernand Lombart - Journey from Christian toDeciple</itunes:title>
+      <description></description>
+      <pubDate>Sat, 21 Mar 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-03-21T02:03:39.699Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1CbU0xMLqrYpJ9LI8kUILntidbJN1EY0x" type="audio/mpeg" length="51332325"></enclosure>
+      <itunes:duration>3208</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">d922a581-fd9f-4dc5-bdee-23e520de5aae</guid>
       <title>Arnfried Duden - Righteousness by Faith</title>
       <itunes:title>Arnfried Duden - Righteousness by Faith</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 14 Mar 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-03-14T02:40:14.696Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1kRKaRIrwVUM8xRjcnGl2TkeEU7Qo8e4c" type="audio/mpeg" length="56744896"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1kRKaRIrwVUM8xRjcnGl2TkeEU7Qo8e4c" type="audio/mpeg" length="56744896" />
       <itunes:duration>3546</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
