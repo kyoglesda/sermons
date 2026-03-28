@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">09346857-004b-416a-8a70-26008635788a</guid>
+      <title>Harpld Hardy - Swevice</title>
+      <itunes:title>Harpld Hardy - Swevice</itunes:title>
+      <description></description>
+      <pubDate>Sat, 28 Mar 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-03-28T04:00:07.014Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1WGK_kpdcKUpGgFO3qG6BGYwAf-SA9DOn" type="audio/mpeg" length="31141552"></enclosure>
+      <itunes:duration>1946</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">551e6aab-ecff-41d2-a142-fd12685d0e3c</guid>
       <title>Pastor Fernand Lombart - Journey from Christian toDeciple</title>
       <itunes:title>Pastor Fernand Lombart - Journey from Christian toDeciple</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 21 Mar 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-03-21T02:03:39.699Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1CbU0xMLqrYpJ9LI8kUILntidbJN1EY0x" type="audio/mpeg" length="51332325"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1CbU0xMLqrYpJ9LI8kUILntidbJN1EY0x" type="audio/mpeg" length="51332325" />
       <itunes:duration>3208</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
