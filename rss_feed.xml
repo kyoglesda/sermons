@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">f1a3d138-c172-447c-bef9-f48f1306e5f6</guid>
+      <title>Adam Cinzio - Come, Rest</title>
+      <itunes:title>Adam Cinzio - Come, Rest</itunes:title>
+      <description>Pastor Adam speaks on the call Christ gives us to come rest in him to precede the Ordinances service.</description>
+      <pubDate>Sat, 4 Apr 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-04-04T02:00:55.242Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1D1ZQRehhMaw2qsU0368GpTcw_dLcMYU2" type="audio/mpeg" length="31004044"></enclosure>
+      <itunes:duration>1937</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">09346857-004b-416a-8a70-26008635788a</guid>
       <title>Harpld Hardy - Swevice</title>
       <itunes:title>Harpld Hardy - Swevice</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 28 Mar 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-03-28T04:00:07.014Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1WGK_kpdcKUpGgFO3qG6BGYwAf-SA9DOn" type="audio/mpeg" length="31141552"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1WGK_kpdcKUpGgFO3qG6BGYwAf-SA9DOn" type="audio/mpeg" length="31141552" />
       <itunes:duration>1946</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
