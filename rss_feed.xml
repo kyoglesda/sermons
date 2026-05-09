@@ -19,6 +19,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">2b6ba83b-7ac3-4ee9-95d3-ec69ef760edf</guid>
+      <title>Adam Cinzio - Why We Seek the Lost</title>
+      <itunes:title>Adam Cinzio - Why We Seek the Lost</itunes:title>
+      <description></description>
+      <pubDate>Sat, 9 May 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-05-09T03:24:16.628Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1x5rqnFlhKARKkoqQLRCcPFaxosusYoRl" type="audio/mpeg" length="43863812"></enclosure>
+      <itunes:duration>2741</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">001d0a6c-5564-483c-a810-eea07762c0cd</guid>
       <title>Kevin Naudé - Be Faithful in Little Things</title>
       <itunes:title>Kevin Naudé - Be Faithful in Little Things</itunes:title>
@@ -27,7 +38,7 @@
       </description>
       <pubDate>Sat, 25 Apr 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-04-25T04:31:40.372Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1P1iMUNRxHQ-Jcpt5wKkgo0r5J6mMDHzB" type="audio/mpeg" length="36865086"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1P1iMUNRxHQ-Jcpt5wKkgo0r5J6mMDHzB" type="audio/mpeg" length="36865086" />
       <itunes:duration>2304</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
