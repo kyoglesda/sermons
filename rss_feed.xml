@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">84e6bc2b-d573-4a8d-8585-ce086930fe7f</guid>
+      <title>Theo Sison - The Day that Disappeared</title>
+      <itunes:title>Theo Sison - The Day that Disappeared</itunes:title>
+      <description></description>
+      <pubDate>Sat, 23 May 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-05-23T02:41:25.338Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1lZRJ3p_9jhKBYVZtJTY-zaAvyBB0v33J" type="audio/mpeg" length="37904132"></enclosure>
+      <itunes:duration>2368</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">8088bce7-9032-4787-b582-45035df2a1f1</guid>
       <title>Nick Robbins - Missionary</title>
       <itunes:title>Nick Robbins - Missionary</itunes:title>
       <description>Nick from the Bible League shares with us the work the Bible League does throughout the world.</description>
       <pubDate>Mon, 18 May 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-05-17T22:59:25.828Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1k0kNA7gCrUQ6JWgBZx1brSFhJC-o4uEK" type="audio/mpeg" length="54733259"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1k0kNA7gCrUQ6JWgBZx1brSFhJC-o4uEK" type="audio/mpeg" length="54733259" />
       <itunes:duration>3420</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
