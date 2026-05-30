@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">1ffc2a03-c3cd-4c64-b773-f8a9f2498fa6</guid>
+      <title>Brother Harold Hardy - The Vine and the Branches</title>
+      <itunes:title>Brother Harold Hardy - The Vine and the Branches</itunes:title>
+      <description></description>
+      <pubDate>Sat, 30 May 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-05-30T02:53:34.209Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=13289CYylvr7IibUR5uIeG-09VVrrXyAO" type="audio/mpeg" length="43844670"></enclosure>
+      <itunes:duration>2740</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">84e6bc2b-d573-4a8d-8585-ce086930fe7f</guid>
       <title>Theo Sison - The Day that Disappeared</title>
       <itunes:title>Theo Sison - The Day that Disappeared</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 23 May 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-05-23T02:41:25.338Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1lZRJ3p_9jhKBYVZtJTY-zaAvyBB0v33J" type="audio/mpeg" length="37904132"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1lZRJ3p_9jhKBYVZtJTY-zaAvyBB0v33J" type="audio/mpeg" length="37904132" />
       <itunes:duration>2368</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
