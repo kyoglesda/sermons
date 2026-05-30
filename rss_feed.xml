@@ -20,12 +20,12 @@
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
       <guid isPermaLink="false">1ffc2a03-c3cd-4c64-b773-f8a9f2498fa6</guid>
-      <title>Brother Harold Hardy - The Vine and the Branches</title>
-      <itunes:title>Brother Harold Hardy - The Vine and the Branches</itunes:title>
-      <description></description>
+      <title>Harold Hardy - The Vine and the Branches</title>
+      <itunes:title>Harold Hardy - The Vine and the Branches</itunes:title>
+      <description />
       <pubDate>Sat, 30 May 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-05-30T02:53:34.209Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=13289CYylvr7IibUR5uIeG-09VVrrXyAO" type="audio/mpeg" length="43844670"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=13289CYylvr7IibUR5uIeG-09VVrrXyAO" type="audio/mpeg" length="43844670" />
       <itunes:duration>2740</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
