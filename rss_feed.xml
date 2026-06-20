@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">8bec73ae-1eee-4c0f-bfff-17112451de51</guid>
+      <title>Glen Ramsay - Keep Your Eye on the Ball</title>
+      <itunes:title>Glen Ramsay - Keep Your Eye on the Ball</itunes:title>
+      <description></description>
+      <pubDate>Sat, 20 Jun 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-06-20T07:01:46.988Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=14WVWA_7Rz2e09m6i3bQPmuiYgFkGNF3I" type="audio/mpeg" length="65343152"></enclosure>
+      <itunes:duration>4083</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">56574112-748b-48c5-96dc-8752318c65ce</guid>
       <title>Mel Sison - Can God be Trusted</title>
       <itunes:title>Mel Sison - Can God be Trusted</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 13 Jun 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-06-13T02:41:24.710Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1gA5lkHXW1ma7JVJXKz1fz2K81qyqPzvi" type="audio/mpeg" length="43416178"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1gA5lkHXW1ma7JVJXKz1fz2K81qyqPzvi" type="audio/mpeg" length="43416178" />
       <itunes:duration>2713</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
