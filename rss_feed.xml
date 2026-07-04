@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">d4360e48-0eff-4e11-9471-60dd4ce5546c</guid>
+      <title>Adam Cinzio - Lord, Help us be Bold</title>
+      <itunes:title>Adam Cinzio - Lord, Help us be Bold</itunes:title>
+      <description></description>
+      <pubDate>Sat, 4 Jul 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-07-04T11:00:05.757Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1NyAb-wcSUjpxLuxJCEe0RcuaG8JedoDn" type="audio/mpeg" length="34399962"></enclosure>
+      <itunes:duration>2149</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">8bec73ae-1eee-4c0f-bfff-17112451de51</guid>
       <title>Glen Ramsay - Keep Your Eye on the Ball</title>
       <itunes:title>Glen Ramsay - Keep Your Eye on the Ball</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 20 Jun 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-06-20T07:01:46.988Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=14WVWA_7Rz2e09m6i3bQPmuiYgFkGNF3I" type="audio/mpeg" length="65343152"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=14WVWA_7Rz2e09m6i3bQPmuiYgFkGNF3I" type="audio/mpeg" length="65343152" />
       <itunes:duration>4083</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
