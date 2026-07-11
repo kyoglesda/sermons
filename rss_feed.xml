@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
-      <guid isPermaLink="false">feec5c86-6e85-4db0-8788-93502ce40c8e</guid>
+      <guid isPermaLink="false">57e1e152-2155-4831-8f40-8f3d42635429</guid>
       <title>Gerard Sexton - The Upside - Down Religion</title>
       <itunes:title>Gerard Sexton - The Upside - Down Religion</itunes:title>
       <description></description>
       <pubDate>Sat, 11 Jul 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-07-11T02:50:22.859Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1lgk7gU_AP6I8XbsYzbTasYOGvgB31EBT" type="audio/mpeg" length="34399962"></enclosure>
+      <itunes:duration>2149</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <guid isPermaLink="false">feec5c86-6e85-4db0-8788-93502ce40c8e</guid>
+      <title>Gerard Sexton - The Upside - Down Religion</title>
+      <itunes:title>Gerard Sexton - The Upside - Down Religion</itunes:title>
+      <description />
+      <pubDate>Sat, 11 Jul 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-07-11T02:50:17.563Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1QOlm25Z4YAMdA4f2Do9XXhaFWHM1bvtv" type="audio/mpeg" length="34399962"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1QOlm25Z4YAMdA4f2Do9XXhaFWHM1bvtv" type="audio/mpeg" length="34399962" />
       <itunes:duration>2149</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
