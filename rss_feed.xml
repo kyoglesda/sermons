@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">938e9584-5532-40fc-a543-3211bd726fb7</guid>
+      <title>Caleb Cinzio - Is There Hope for a Planet in Crisis?</title>
+      <itunes:title>Caleb Cinzio - Is There Hope for a Planet in Crisis?</itunes:title>
+      <description>Caleb presents to us a topic from his upcoming mission trip to the Pacific islands.</description>
+      <pubDate>Sat, 1 Aug 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-08-01T02:29:27.934Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1Z34t1bMoRIxQliQcUEVJZ0To5Q1OgfcD" type="audio/mpeg" length="34459730"></enclosure>
+      <itunes:duration>2153</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">25f5bcf2-ed38-4775-89db-5950b79848ff</guid>
       <title>Kenny Oo - The Great Exchange</title>
       <itunes:title>Kenny Oo - The Great Exchange</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 25 Jul 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-07-25T02:34:30.697Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=18dFN2ToU9xkPVkKW7he7ZyoSn9GngAVq" type="audio/mpeg" length="32364083"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=18dFN2ToU9xkPVkKW7he7ZyoSn9GngAVq" type="audio/mpeg" length="32364083" />
       <itunes:duration>2022</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
