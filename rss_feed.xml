@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">f4338af2-324e-463b-9ce6-4e18c595324a</guid>
+      <title>Glen Ramsay - Type VS Antitype</title>
+      <itunes:title>Glen Ramsay - Type VS Antitype</itunes:title>
+      <description></description>
+      <pubDate>Sat, 8 Aug 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-08-08T03:12:04.046Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1nijpJUfmfEebP90hLaud9AflmcSdqTcr" type="audio/mpeg" length="64516847"></enclosure>
+      <itunes:duration>4032</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">938e9584-5532-40fc-a543-3211bd726fb7</guid>
       <title>Caleb Cinzio - Is There Hope for a Planet in Crisis?</title>
       <itunes:title>Caleb Cinzio - Is There Hope for a Planet in Crisis?</itunes:title>
       <description>Caleb presents to us a topic from his upcoming mission trip to the Pacific islands.</description>
       <pubDate>Sat, 1 Aug 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-08-01T02:29:27.934Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1Z34t1bMoRIxQliQcUEVJZ0To5Q1OgfcD" type="audio/mpeg" length="34459730"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1Z34t1bMoRIxQliQcUEVJZ0To5Q1OgfcD" type="audio/mpeg" length="34459730" />
       <itunes:duration>2153</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
