@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">d594eb02-4834-4b6c-9005-d46fc949bc29</guid>
+      <title>Caleb Smith - The Delight of the Sabbath</title>
+      <itunes:title>Caleb Smith - The Delight of the Sabbath</itunes:title>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-08-15T04:33:32.427Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=17hxQL6q8g6uLZwKVxm06Zsb5BpFreaJh" type="audio/mpeg" length="81446284"></enclosure>
+      <itunes:duration>5090</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">f4338af2-324e-463b-9ce6-4e18c595324a</guid>
       <title>Glen Ramsay - Type VS Antitype</title>
       <itunes:title>Glen Ramsay - Type VS Antitype</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 8 Aug 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-08-08T03:12:04.046Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1nijpJUfmfEebP90hLaud9AflmcSdqTcr" type="audio/mpeg" length="64516847"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1nijpJUfmfEebP90hLaud9AflmcSdqTcr" type="audio/mpeg" length="64516847" />
       <itunes:duration>4032</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
