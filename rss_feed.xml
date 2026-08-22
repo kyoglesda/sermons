@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">77410273-2ad4-44fd-a310-9ef44fb22e2b</guid>
+      <title>Glen Ramsay - Talents</title>
+      <itunes:title>Glen Ramsay - Talents</itunes:title>
+      <description></description>
+      <pubDate>Sat, 22 Aug 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-08-22T02:57:41.784Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1DtlBvSUGQFeWMaABi9h2iRxmaSKOxrE6" type="audio/mpeg" length="65990989"></enclosure>
+      <itunes:duration>4124</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">4fcde71a-706c-46ea-9867-22b82d979911</guid>
       <title>Caleb Smith - The Delight of the Sabbath</title>
       <itunes:title>Caleb Smith - The Delight of the Sabbath</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 15 Aug 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-08-15T04:33:41.876Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1iUNGHS_zrzoaGeN_vR2LIf2EOSdsuZAR" type="audio/mpeg" length="81446284"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1iUNGHS_zrzoaGeN_vR2LIf2EOSdsuZAR" type="audio/mpeg" length="81446284" />
       <itunes:duration>5090</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
