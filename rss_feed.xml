@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">202f8e80-83e5-4ed6-8144-a7ce100ef1c1</guid>
+      <title>Kevin Munro - Longing for Homeland 3 words 3 women one destiny</title>
+      <itunes:title>Kevin Munro - Longing for Homeland 3 words 3 women one destiny</itunes:title>
+      <description></description>
+      <pubDate>Sat, 29 Aug 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-08-29T02:41:14.872Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1lWwnX4VZz_Jjc93hxA-PAyzwV9nj1c-c" type="audio/mpeg" length="34476031"></enclosure>
+      <itunes:duration>2154</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">77410273-2ad4-44fd-a310-9ef44fb22e2b</guid>
       <title>Glen Ramsay - Talents</title>
       <itunes:title>Glen Ramsay - Talents</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 22 Aug 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-08-22T02:57:41.784Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1DtlBvSUGQFeWMaABi9h2iRxmaSKOxrE6" type="audio/mpeg" length="65990989"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1DtlBvSUGQFeWMaABi9h2iRxmaSKOxrE6" type="audio/mpeg" length="65990989" />
       <itunes:duration>4124</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
