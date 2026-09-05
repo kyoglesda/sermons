@@ -19,13 +19,26 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">510da463-8897-49b6-a153-7ccd41b25d43</guid>
+      <title>Lucinda Ramsay - Midnight in the Prison</title>
+      <itunes:title>Lucinda Ramsay - Midnight in the Prison</itunes:title>
+      <description>
+        <![CDATA[Please view the <a href="https://drive.google.com/file/d/1_UVq3d8CBNeslZ7exHpZLm2ZGyjjHBCj/view?usp=sharing">presentation slides on Google Drive</a> or view the <a href="https://drive.google.com/uc?id=1_UVq3d8CBNeslZ7exHpZLm2ZGyjjHBCj">PDF directly here</a>.]]>
+      </description>
+      <pubDate>Sat, 5 Sep 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-09-05T02:57:54.922Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1SS7telo_5UZLTXSoi36Fvm2-fJQd4Hh7" type="audio/mpeg" length="47935570"></enclosure>
+      <itunes:duration>2995</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">202f8e80-83e5-4ed6-8144-a7ce100ef1c1</guid>
       <title>Kevin Munro - Longing for Homeland 3 words 3 women one destiny</title>
       <itunes:title>Kevin Munro - Longing for Homeland 3 words 3 women one destiny</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 29 Aug 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-08-29T02:41:14.872Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1lWwnX4VZz_Jjc93hxA-PAyzwV9nj1c-c" type="audio/mpeg" length="34476031"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1lWwnX4VZz_Jjc93hxA-PAyzwV9nj1c-c" type="audio/mpeg" length="34476031" />
       <itunes:duration>2154</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
