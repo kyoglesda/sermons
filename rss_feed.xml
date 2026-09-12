@@ -19,6 +19,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">15a7fbd6-25f5-43c9-9d24-fbbdd65b34a6</guid>
+      <title>Harold Hardy - Sabbath Rest</title>
+      <itunes:title>Harold Hardy - Sabbath Rest</itunes:title>
+      <description></description>
+      <pubDate>Sat, 12 Sep 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-09-12T02:52:48.750Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1vC_SPSSL1YShju6StGNzR2E_XHmTWOC1" type="audio/mpeg" length="44094943"></enclosure>
+      <itunes:duration>2755</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">510da463-8897-49b6-a153-7ccd41b25d43</guid>
       <title>Lucinda Ramsay - Midnight in the Prison</title>
       <itunes:title>Lucinda Ramsay - Midnight in the Prison</itunes:title>
@@ -27,7 +38,7 @@
       </description>
       <pubDate>Sat, 5 Sep 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-09-05T02:57:54.922Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1SS7telo_5UZLTXSoi36Fvm2-fJQd4Hh7" type="audio/mpeg" length="47935570"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1SS7telo_5UZLTXSoi36Fvm2-fJQd4Hh7" type="audio/mpeg" length="47935570" />
       <itunes:duration>2995</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
