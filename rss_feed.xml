@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">cdc215b4-1a7a-4290-b564-ba38f03369a3</guid>
+      <title>Fernand Lombart - Caring Through Action</title>
+      <itunes:title>Fernand Lombart - Caring Through Action</itunes:title>
+      <description></description>
+      <pubDate>Sat, 19 Sep 2026 11:00:00 +1000</pubDate>
+      <a10:updated>2026-09-19T02:54:01.001Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1ZgCyGjf1sLFdpgHzM1KDZl1KnPy2ryES" type="audio/mpeg" length="44212808"></enclosure>
+      <itunes:duration>2763</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">15a7fbd6-25f5-43c9-9d24-fbbdd65b34a6</guid>
       <title>Harold Hardy - Sabbath Rest</title>
       <itunes:title>Harold Hardy - Sabbath Rest</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 12 Sep 2026 11:00:00 +1000</pubDate>
       <a10:updated>2026-09-12T02:52:48.750Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1vC_SPSSL1YShju6StGNzR2E_XHmTWOC1" type="audio/mpeg" length="44094943"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1vC_SPSSL1YShju6StGNzR2E_XHmTWOC1" type="audio/mpeg" length="44094943" />
       <itunes:duration>2755</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
