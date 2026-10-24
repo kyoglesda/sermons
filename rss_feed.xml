@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">8c436861-96c3-4346-84ac-9fb5a8ff2d75</guid>
+      <title>Kevin Naudé - Mission Report</title>
+      <itunes:title>Kevin Naudé - Mission Report</itunes:title>
+      <description></description>
+      <pubDate>Sat, 24 Oct 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-10-24T02:10:56.833Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1e-jswj6Q_2U5VB0ftguRckrMZ4o7qQ0-" type="audio/mpeg" length="55989226"></enclosure>
+      <itunes:duration>3499</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">cade7129-4b29-4201-b672-e94d67cada60</guid>
       <title>Adam Chinzio - Fragrance of Forgiveness</title>
       <itunes:title>Adam Chinzio - Fragrance of Forgiveness</itunes:title>
       <description>Fragrance of Forgiveness</description>
       <pubDate>Sat, 17 Oct 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-10-17T01:42:42.256Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1l2AxrkBBkspoUbiRBjAvRtMWU9Rpwd-_" type="audio/mpeg" length="31284077"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1l2AxrkBBkspoUbiRBjAvRtMWU9Rpwd-_" type="audio/mpeg" length="31284077" />
       <itunes:duration>1955</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
