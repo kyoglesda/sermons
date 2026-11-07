@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">dc793d5d-d8a1-4fba-b93e-5c666e878cfa</guid>
+      <title>Adam Cinzio - Looking forward Looking back</title>
+      <itunes:title>Adam Cinzio - Looking forward Looking back</itunes:title>
+      <description></description>
+      <pubDate>Sat, 7 Nov 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-11-07T04:20:40.609Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1SPpLYnEvJUW_ic57NmByJ6hgQxiAfLB1" type="audio/mpeg" length="35151757"></enclosure>
+      <itunes:duration>2157</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">8c436861-96c3-4346-84ac-9fb5a8ff2d75</guid>
       <title>Kevin Naudé - Mission Report</title>
       <itunes:title>Kevin Naudé - Mission Report</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 24 Oct 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-10-24T02:10:56.833Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1e-jswj6Q_2U5VB0ftguRckrMZ4o7qQ0-" type="audio/mpeg" length="55989226"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1e-jswj6Q_2U5VB0ftguRckrMZ4o7qQ0-" type="audio/mpeg" length="55989226" />
       <itunes:duration>3499</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
