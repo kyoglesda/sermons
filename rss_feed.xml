@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Christianity &amp; Seventh-day Adventist" />
     <item>
+      <guid isPermaLink="false">9bb03f1c-e6f0-4a97-9ab9-eb2fcb0ba96a</guid>
+      <title>Gerard Sexton - Who do you say I am?</title>
+      <itunes:title>Gerard Sexton - Who do you say I am?</itunes:title>
+      <description></description>
+      <pubDate>Sat, 14 Nov 2026 11:00:00 +1100</pubDate>
+      <a10:updated>2026-11-14T02:01:35.381Z</a10:updated>
+      <enclosure url="https://drive.google.com/uc?id=1og6MNEIUw4qycwXz0w2Yi2aGBblDkjhi" type="audio/mpeg" length="41628566"></enclosure>
+      <itunes:duration>2601</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <guid isPermaLink="false">dc793d5d-d8a1-4fba-b93e-5c666e878cfa</guid>
       <title>Adam Cinzio - Looking forward Looking back</title>
       <itunes:title>Adam Cinzio - Looking forward Looking back</itunes:title>
-      <description></description>
+      <description />
       <pubDate>Sat, 7 Nov 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-11-07T04:20:40.609Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1SPpLYnEvJUW_ic57NmByJ6hgQxiAfLB1" type="audio/mpeg" length="35151757"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1SPpLYnEvJUW_ic57NmByJ6hgQxiAfLB1" type="audio/mpeg" length="35151757" />
       <itunes:duration>2157</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
