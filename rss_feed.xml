@@ -22,10 +22,12 @@
       <guid isPermaLink="false">9bb03f1c-e6f0-4a97-9ab9-eb2fcb0ba96a</guid>
       <title>Gerard Sexton - Who do you say I am?</title>
       <itunes:title>Gerard Sexton - Who do you say I am?</itunes:title>
-      <description></description>
+      <description>
+        <![CDATA[Please view the <a href="https://drive.google.com/file/d/1T7ltma--CyjFapdnKXyFQf1l2WR2tJ-q/view?usp=sharing">presentation slides on Google Drive</a> or view the <a href="https://drive.google.com/uc?id=1T7ltma--CyjFapdnKXyFQf1l2WR2tJ-q">PDF directly here</a>.]]>
+      </description>
       <pubDate>Sat, 14 Nov 2026 11:00:00 +1100</pubDate>
       <a10:updated>2026-11-14T02:01:35.381Z</a10:updated>
-      <enclosure url="https://drive.google.com/uc?id=1og6MNEIUw4qycwXz0w2Yi2aGBblDkjhi" type="audio/mpeg" length="41628566"></enclosure>
+      <enclosure url="https://drive.google.com/uc?id=1og6MNEIUw4qycwXz0w2Yi2aGBblDkjhi" type="audio/mpeg" length="41628566" />
       <itunes:duration>2601</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
